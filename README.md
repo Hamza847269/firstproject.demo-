@@ -1,2 +1,3 @@
 <p>apna collage</P>
-<p>bhai ye sab kya ho raha hai 
+<br>
+<p>bhai ye sab kya ho raha hai</p>

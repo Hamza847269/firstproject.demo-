@@ -1,5 +1,2 @@
-# firstproject.demo-
-this is my first git respository
-<br>
-</hr>
-author - hamza anwar 
+<p>apna collage</P>
+<p>bhai ye sab kya ho raha hai 
